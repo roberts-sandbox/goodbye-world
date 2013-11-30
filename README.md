@@ -1,0 +1,4 @@
+goodbye-world
+=============
+
+THE OPPOSITE
